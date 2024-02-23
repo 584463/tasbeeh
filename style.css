@@ -1,0 +1,13 @@
+*{
+    width: auto;
+    height: auto;
+}
+
+.counter {
+    display: flex;
+    justify-content: space-around;
+}
+
+.center-btn {
+    flex-direction: column;
+}
